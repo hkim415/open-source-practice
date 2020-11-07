@@ -1,0 +1,1 @@
+console.log('Visit "https://ping-pong-game-hongsoon.herokuapp.com/" to play a pong game!');
